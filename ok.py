@@ -20,8 +20,8 @@ else:
               
 	""")
 	
-	print("Usage : python spamArgv.py < number > < amount >")
-	print("วิธีใช้   : python spamArgv.py <เบอร์โทร> <จำนวนการยิง>" )
+	
+	print("วิธีใช้   : python ok.py <เบอร์โทร> <จำนวนการยิง>" )
 	sys.exit(1)
 	
 
